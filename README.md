@@ -1,18 +1,28 @@
-# Welcome to Slides
+# Merchant of Simplicity
 
-A terminal based presentation tool
+> Basic problems people could easily solve for themselves, [get] turned into scary and insurmountable challenges that only a sophisticated solution will cure.
 
----
-
-## Everything is markdown
-
-In fact, this entire presentation is a markdown file.
+-- David Heinemeier Hansson
 
 ---
 
-## Everything happens in your terminal
+## Merchants of Complexity
 
-Create slides and present them without ever leaving your terminal.
+> Build in a weekend, Scale to millions
+
+-- Supabase
+
+> Build, deploy, and scale your apps with unparalleled ease – from your first user to your billionth
+
+-- Render
+
+---
+
+## Parsa Safavi
+
+- Software Developer @ ORX Travel
+
+- Creator of Metrists
 
 ---
 
