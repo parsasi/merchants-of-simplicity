@@ -1,12 +1,40 @@
 # Merchant of Simplicity
 
-> Basic problems people could easily solve for themselves, [get] turned into scary and insurmountable challenges that only a sophisticated solution will cure.
+---
 
--- David Heinemeier Hansson
+## Let's play a game
+
+> Build in a weekend, Scale to _____
+
+-- Supabase
+
+> Build, deploy, and scale your apps with unparalleled ease – from your first user to your _____
+
+-- Render
+
+> The world’s fastest and most _______ cloud databases
+
+-- PlanetScale
 
 ---
 
-## Merchants of Complexity
+## Let's play a game
+
+> Build in a weekend, Scale to millions
+
+-- Supabase
+
+> Build, deploy, and scale your apps with unparalleled ease – from your first user to your _____
+
+-- Render
+
+> The world’s fastest and most _______ cloud databases
+
+-- PlanetScale
+
+---
+
+## Let's play a game
 
 > Build in a weekend, Scale to millions
 
@@ -15,6 +43,26 @@
 > Build, deploy, and scale your apps with unparalleled ease – from your first user to your billionth
 
 -- Render
+
+> The world’s fastest and most _______ cloud databases
+
+-- PlanetScale
+
+---
+
+## Let's play a game
+
+> Build in a weekend, Scale to millions
+
+-- Supabase
+
+> Build, deploy, and scale your apps with unparalleled ease – from your first user to your billionth
+
+-- Render
+
+> The world’s fastest and most scalable cloud databases
+
+-- PlanetScale
 
 ---
 
