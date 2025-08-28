@@ -1,66 +1,54 @@
-# Merchant of Simplicity
+# Simplicity
+
+> It's hard to sell simple, because simple looks easy, and who wants to pay for that?
+
+-- DHH
 
 ---
 
-## Let's play a game
+## Let's play a game - Supabase
 
-> Build in a weekend, Scale to _____
+> Build in a weekend, Scale to --------
 
 -- Supabase
 
-> Build, deploy, and scale your apps with unparalleled ease – from your first user to your _____
-
--- Render
-
-> The world’s fastest and most _______ cloud databases
-
--- PlanetScale
-
 ---
 
-## Let's play a game
+## Let's play a game - Supabase
 
 > Build in a weekend, Scale to millions
 
 -- Supabase
 
-> Build, deploy, and scale your apps with unparalleled ease – from your first user to your _____
+---
+
+## Let's play a game - Render
+
+> Build, deploy, and scale your apps with unparalleled ease – from your first user to your ---------
 
 -- Render
 
-> The world’s fastest and most _______ cloud databases
-
--- PlanetScale
-
 ---
 
-## Let's play a game
-
-> Build in a weekend, Scale to millions
-
--- Supabase
+## Let's play a game - Render
 
 > Build, deploy, and scale your apps with unparalleled ease – from your first user to your billionth
 
 -- Render
 
-> The world’s fastest and most _______ cloud databases
+---
+
+## Let's play a game - PlanetScale
+
+> The world's fastest and most ----- cloud databases
 
 -- PlanetScale
 
 ---
 
-## Let's play a game
+## Let's play a game - PlanetScale
 
-> Build in a weekend, Scale to millions
-
--- Supabase
-
-> Build, deploy, and scale your apps with unparalleled ease – from your first user to your billionth
-
--- Render
-
-> The world’s fastest and most scalable cloud databases
+> The world's fastest and most scalable cloud databases
 
 -- PlanetScale
 
@@ -68,7 +56,7 @@
 
 ## Parsa Safavi
 
-- Software Developer @ ORX Travel
+- Senior Developer @ ORX Travel
 
 - Creator of Metrists
 
